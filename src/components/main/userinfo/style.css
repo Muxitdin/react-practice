@@ -1,0 +1,9 @@
+.user-info {
+    display: flex;
+    gap: 2rem;
+}
+
+.user-info img {
+    width: 120px;
+    height: 120px;
+}

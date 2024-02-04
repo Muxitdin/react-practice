@@ -1,0 +1,13 @@
+.header {
+    grid-area: h;
+    width: 100%;
+    min-height: 10vh;
+    padding-left: 5rem;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
+
+.header img {
+    width: 150px;
+}
